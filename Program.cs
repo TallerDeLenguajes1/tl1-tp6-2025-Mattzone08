@@ -56,6 +56,8 @@ else
 
 // Ejercicio 2 
 
+
+
 using System.Reflection.Metadata;
 
 string Bandera = "si";
@@ -174,6 +176,8 @@ while (Bandera == "si")
 
 
 
+
+// Ejercicio 2 
 
 
 
